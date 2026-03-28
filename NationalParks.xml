@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+	<NationalPark>
+		<Name>Horseshoe Bend</Name>
+		<Phone>256-234-7111</Phone>
+		<Address>
+			<Number>11288</Number>
+			<Street>Horseshoe Bend Road</Street>
+			<City>Daviston</City>
+			<State>AL</State>
+			<Zip>36256</Zip>
+			<NearestAirport>Montgomery Regional Airport</NearestAirport>
+		</Address>
+		<Rating>4.9</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Cane River Creole</Name>
+		<Phone>318-352-0383</Phone>
+		<Address>
+			<Number>1927</Number>
+			<Street>Remembrance Way</Street>
+			<City>Natchitoches</City>
+			<State>LA</State>
+			<Zip>71457</Zip>
+			<NearestAirport>Louis Armstrong New Orleans International Airport</NearestAirport>
+		</Address>
+		<Rating>4.2</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address>
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+			<NearestAirport>FlagStaff</NearestAirport>
+		</Address>
+		<Rating>4.9</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Hot Springs</Name>
+		<Phone>501 620-6715</Phone>
+		<Address>
+			<Number>101</Number>
+			<Street>Reserve Street</Street>
+			<City>Hot Springs</City>
+			<State>AR</State>
+			<Zip>71901</Zip>
+			<NearestAirport>Hot Springs Memorial Field</NearestAirport>
+		</Address>
+		<Rating>4.7</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Arches</Name>
+		<Phone>435 719-2299</Phone>
+		<Phone>435 259-7983</Phone>
+		<Address>
+			<Number>0</Number>
+			<Street>Arches Quarters</Street>
+			<City>Moabs</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+			<NearestAirport>Salt Lake City International Airport</NearestAirport>
+		</Address>
+		<Rating>4.7</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Badlands</Name>
+		<Phone>605 433-5361</Phone>
+		<Address>
+			<Number>25216</Number>
+			<Street>Ben Reifel Road</Street>
+			<City>Interior</City>
+			<State>SD</State>
+			<Zip>57750</Zip>
+			<NearestAirport>Rapid City Regional Airport </NearestAirport>
+		</Address>
+		<Rating>4.9</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Cuyahoga Valley</Name>
+		<Phone>318-352-0383</Phone>
+		<Address>
+			<Number>15610</Number>
+			<Street>Vaughn Road</Street>
+			<City>Brecksville</City>
+			<State>OH</State>
+			<Zip>44141</Zip>
+			<NearestAirport>Akron Fulton International Airport</NearestAirport>
+		</Address>
+		<Rating>4.5</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Death Valley</Name>
+		<Phone>760 786-3200</Phone>
+		<Address>
+			<Number>0</Number>
+			<Street>Airport Rd</Street>
+			<City>Death Valley</City>
+			<State>CA</State>
+			<Zip>92328</Zip>
+			<NearestAirport> Furnace Creek Airport</NearestAirport>
+		</Address>
+		<Rating>4.7</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Crater Lake</Name>
+		<Phone>541 594-3000</Phone>
+		<Address>
+			<Number>100</Number>
+			<Street>Munson Valley Rd</Street>
+			<City>Crater Lake</City>
+			<State>OR</State>
+			<Zip>97604</Zip>
+			<NearestAirport>Klamath Falls-Crater Lake Regional Airport</NearestAirport>
+		</Address>
+		<Rating>4.8</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>The Gateway Arch</Name>
+		<Phone>314 655-1600</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>North 4th Street</Street>
+			<City>St. Louis</City>
+			<State>MO</State>
+			<Zip>63102</Zip>
+			<NearestAirport>St. Louis Lambert International Airport</NearestAirport>
+		</Address>
+		<Rating>4.7</Rating>
+	</NationalPark>
+	<NationalPark>
+		<Name>Big Bend</Name>
+		<Phone>314 655-1600</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Panther Junction</Street>
+			<City>Big Bend National Park</City>
+			<State>TX</State>
+			<Zip>79834</Zip>
+			<NearestAirport>Midland International Air and Space Port</NearestAirport>
+		</Address>
+		<Rating></Rating>
+	</NationalPark>
+</NationalParks>
